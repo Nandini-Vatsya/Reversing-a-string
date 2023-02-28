@@ -9,4 +9,8 @@
 <br>5.Do it until the first variable is less than the second one</br>
 <br>6.Print the reversed string</br>
 <br>7.End the program</br>
+<br></br>
+<br><b><ins>To know more about reversing a string, refer to the following website</b></ins></br>
+<br></br>
+![image](https://user-images.githubusercontent.com/125802204/221758009-16609467-69d3-4c58-a969-373a5a657d89.png)
 
