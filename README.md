@@ -13,5 +13,6 @@
 <br><b><ins>To know more about reversing a string, refer to the following website</b></ins></br>
 <br></br>
 https://www.javatpoint.com/reverse-a-string-in-c#:~:text=Reversing%20a%20string%20is%20the,by%20reversing%20the%20original%20string.</br>
+<br></br>
 ![image](https://user-images.githubusercontent.com/125802204/221758009-16609467-69d3-4c58-a969-373a5a657d89.png)
 
